@@ -1,0 +1,4 @@
+#ignore a file 
+demo.txt
+/build
+*.log
